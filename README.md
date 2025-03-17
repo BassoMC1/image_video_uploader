@@ -20,8 +20,8 @@ A simple web application for uploading, downloading, and managing encrypted imag
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/BassoMC1/Image_video_uploader.git
-    cd Image_video_uploader.git
+    git clone https://github.com/BassoMC1/image_video_uploader.git
+    cd image_video_uploader.git
     ```
 
 2. **Install dependencies:**
